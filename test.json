@@ -1,0 +1,199 @@
+{
+	"Private_sessions" : 
+	[
+		{
+			"Date" : "2022-06-27",
+			"Slot" : 1
+		},
+		{
+			"Date" : "2022-06-27",
+			"Slot" : 3
+		},
+		{
+			"Date" : "2022-06-28",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "t t",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-06-28",
+			"Slot" : 2,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : " ",
+					"member_id" : 2,
+					"member_name" : "Youssef AL bali",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-06-29",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "t t",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-06-29",
+			"Slot" : 2
+		},
+		{
+			"Date" : "2022-06-30",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "t t",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-05",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "t t",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-06",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "t t",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-07",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "t t",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-12",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "t t",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-13",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "t t",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-14",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "t t",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-19",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "t t",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-20",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "t t",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-21",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "t t",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		}
+	]
+}
