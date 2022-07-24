@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Update_member_win</class>
+ <widget class="QWidget" name="Update_member_win">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>444</width>
+    <height>352</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Update_member_win</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QFrame" name="frame">
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <widget class="QLineEdit" name="surname_input">
+      <property name="geometry">
+       <rect>
+        <x>150</x>
+        <y>94</y>
+        <width>171</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <family>Source Code Pro</family>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">border-radius: 11px;
+border-width: 1px;
+background-color: #FFFFFF;
+color: #7F7F7F;
+padding: 5px;</string>
+      </property>
+      <property name="placeholderText">
+       <string>Surname</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="name_input">
+      <property name="geometry">
+       <rect>
+        <x>150</x>
+        <y>50</y>
+        <width>171</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <family>Segoe UI</family>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">border-radius: 11px;
+border-width: 1px;
+background-color: #FFFFFF;
+color: #7F7F7F;
+padding: 5px;</string>
+      </property>
+      <property name="placeholderText">
+       <string>Name</string>
+      </property>
+     </widget>
+     <widget class="QToolButton" name="update_button">
+      <property name="geometry">
+       <rect>
+        <x>150</x>
+        <y>190</y>
+        <width>171</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <family>Segoe UI</family>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">border-style: outset ; 
+border-radius: 11px;
+border-color:  #7D43E2;
+border-width: 1px;
+background-color: #7D43E2;
+color: #FFFFFF;</string>
+      </property>
+      <property name="text">
+       <string>Update data</string>
+      </property>
+     </widget>
+     <widget class="QToolButton" name="reset_password_button">
+      <property name="geometry">
+       <rect>
+        <x>150</x>
+        <y>240</y>
+        <width>171</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <family>Segoe UI</family>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">border-style: outset ; 
+border-radius: 11px;
+border-color:  #7D43E2;
+border-width: 1px;
+background-color: #7D43E2;
+color: #FFFFFF;</string>
+      </property>
+      <property name="text">
+       <string>Reset Password</string>
+      </property>
+     </widget>
+     <widget class="QComboBox" name="level_combo">
+      <property name="geometry">
+       <rect>
+        <x>150</x>
+        <y>140</y>
+        <width>171</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <family>Segoe UI</family>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="autoFillBackground">
+       <bool>false</bool>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">border-radius: 11px;
+border-width: 1px;
+background-color: #FFFFFF;
+color: #7F7F7F;
+padding: 5px;</string>
+      </property>
+      <property name="editable">
+       <bool>false</bool>
+      </property>
+      <property name="currentText">
+       <string/>
+      </property>
+      <property name="insertPolicy">
+       <enum>QComboBox::InsertAfterCurrent</enum>
+      </property>
+      <property name="placeholderText">
+       <string>Level</string>
+      </property>
+      <property name="duplicatesEnabled">
+       <bool>false</bool>
+      </property>
+      <property name="frame">
+       <bool>true</bool>
+      </property>
+      <item>
+       <property name="text">
+        <string>Beginner</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Intermediate</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Advanced</string>
+       </property>
+      </item>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
