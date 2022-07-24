@@ -1,0 +1,29 @@
+{
+	"Trainers" : 
+	[
+		{
+			"Category" : "Body_building",
+			"id" : 5,
+			"login" : "trainer",
+			"name" : "Andrii",
+			"password" : 14695981039346656037,
+			"surname" : "Bobchuk"
+		},
+		{
+			"Category" : "Fitness",
+			"id" : 6,
+			"login" : "Michal",
+			"name" : "Michal",
+			"password" : 14079092472701498582,
+			"surname" : "Smaluch"
+		},
+		{
+			"Category" : "Fitnnes",
+			"id" : 10,
+			"login" : "trainer1",
+			"name" : "Trainer",
+			"password" : 14695981039346656037,
+			"surname" : "trainer"
+		}
+	]
+}

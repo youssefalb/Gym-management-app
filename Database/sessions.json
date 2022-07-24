@@ -1,0 +1,549 @@
+{
+	"Private_sessions" : 
+	[
+		{
+			"Date" : "2022-06-30",
+			"Slot" : 1
+		},
+		{
+			"Date" : "2022-06-30",
+			"Slot" : 2
+		},
+		{
+			"Date" : "2022-07-01",
+			"Slot" : 1
+		},
+		{
+			"Date" : "2022-07-02",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs +calves",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-05",
+			"Slot" : 1
+		},
+		{
+			"Date" : "2022-07-05",
+			"Slot" : 5
+		},
+		{
+			"Date" : "2022-07-06",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-07",
+			"Slot" : 1
+		},
+		{
+			"Date" : "2022-07-07",
+			"Slot" : 2
+		},
+		{
+			"Date" : "2022-07-08",
+			"Slot" : 1
+		},
+		{
+			"Date" : "2022-07-11",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-12",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-12",
+			"Slot" : 5
+		},
+		{
+			"Date" : "2022-07-13",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-14",
+			"Slot" : 1
+		},
+		{
+			"Date" : "2022-07-14",
+			"Slot" : 2
+		},
+		{
+			"Date" : "2022-07-15",
+			"Slot" : 1
+		},
+		{
+			"Date" : "2022-07-18",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-19",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-19",
+			"Slot" : 5
+		},
+		{
+			"Date" : "2022-07-20",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-21",
+			"Slot" : 1
+		},
+		{
+			"Date" : "2022-07-21",
+			"Slot" : 2
+		},
+		{
+			"Date" : "2022-07-22",
+			"Slot" : 1
+		},
+		{
+			"Date" : "2022-07-25",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-26",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-07-27",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-01",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-02",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-03",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-08",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-09",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-10",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-15",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-16",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-17",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-22",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-23",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-24",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-29",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-30",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-08-31",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-09-05",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-09-06",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-09-07",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-09-12",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-09-13",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-09-14",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Chest + Bicepes",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-09-19",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Back + triceps",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-09-20",
+			"Slot" : 1,
+			"member_trainer_ids" : 
+			[
+				{
+					"description" : "Legs + shoulders",
+					"member_id" : 1,
+					"member_name" : "Viktor Didyk",
+					"trainer_id" : 5,
+					"trainer_name" : "Andrii Bobchuk"
+				}
+			]
+		},
+		{
+			"Date" : "2022-09-21",
+			"Slot" : 1
+		}
+	]
+}

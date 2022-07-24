@@ -1,0 +1,177 @@
+{
+  "Body_building_programs": [
+    {
+      "level": "Beginner",
+      "sessions": [
+        {
+          "About": "Chest + Bicepes"
+        },
+        {
+          "About": "Back + triceps"
+        },
+        {
+          "About": "Legs + shoulders"
+        }
+      ]
+    },
+    {
+      "level": "Beginner",
+      "sessions": [
+        {
+          "About": "Full Arms"
+        },
+        {
+          "About": "Back + triceps"
+        },
+        {
+          "About": "Lower Body + Core"
+        }
+      ]
+    },
+    {
+      "level": "Beginner",
+      "sessions": [
+        {
+          "About": "Full chest"
+        },
+        {
+          "About": "legs + back"
+        },
+        {
+          "About": "Abs + shoulders"
+        }
+      ]
+    },
+    {
+      "level": "Beginner",
+      "sessions": [
+        {
+          "About": "Arms + Abs"
+        },
+        {
+          "About": "Back + shoulders"
+        },
+        {
+          "About": "Legs"
+        }
+      ]
+    },
+
+    {
+      "level": "Intermediate",
+      "sessions": [
+        {
+          "About": "Arms + Abs"
+        },
+        {
+          "About": "Back + shoulders"
+        },
+        {
+          "About": "Legs"
+        }
+      ]
+    },
+    {
+      "level": "Beginner",
+      "sessions": [
+        {
+          "About": "Chest"
+        },
+        {
+          "About": "Back_calisthenics"
+        },
+        {
+          "About": "Full_Legs"
+        },
+        {
+          "About": "Shoulders"
+        }
+      ]
+    },
+    {
+      "level": "Intermediate",
+      "sessions": [
+        {
+          "About": "Chest + abs"
+        },
+        {
+          "About": "Arms + Shoulders"
+        },
+        {
+          "About": "Back + legs"
+        }
+      ]
+    },
+    {
+      "level": "Advanced",
+      "sessions": [
+        {
+          "About": "Chest"
+        },
+        {
+          "About": "Back_calisthenics"
+        },
+        {
+          "About": "Full_Legs"
+        },
+        {
+          "About": "Shoulders"
+        }
+      ]
+    },
+    {
+      "level": "Advanced",
+      "sessions": [
+        {
+          "About": "Chest + Bicepes"
+        },
+        {
+          "About": "Back + triceps"
+        },
+        {
+          "About": "Legs"
+        },
+        {
+          "About": "Shoulders"
+        }
+      ]
+    }
+
+
+  ], 
+  "Fitnnes_programs": [
+
+    {
+      "level": "Beginner",
+      "sessions": [
+        {
+          "day": "1",
+          "About": "Full body workout"
+        },
+        {
+          "day": "2",
+          "About": "Cardio + stairs"
+        },
+        {
+          "day": "3",
+          "About": "Abs + running"
+        }
+      ]
+    },
+    {
+      "level": "Intermediate",
+      "sessions": [
+        {
+          "About": "Chest + Bicepes"
+        },
+        {
+          "About": "Chest + Bicepes"
+        },
+        {
+          "About": "Chest + Bicepes"
+        }
+      ]
+    }
+  ]
+
+}
